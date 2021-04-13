@@ -1,0 +1,9 @@
+Aloha,
+
+I am the instructor of CS490R. This is my text file. You should create a file like it for your "Git Collaboration Assignment".
+
+My project idea is to make an app like "Slack". It will have users and messages posts.  You CANNOT steal my idea.
+
+Good luck coming up with your own idea.
+
+Bro. Slade
