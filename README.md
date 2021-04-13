@@ -1,3 +1,5 @@
+# Git Collaboration Assignment
+
 Simple Repository to teach how to submit a pull request.
 
 You should do the following:
