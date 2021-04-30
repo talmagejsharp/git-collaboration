@@ -1,0 +1,6 @@
+Aloha,
+
+I'm Hongbin Lee majoring in Computer Science. I'm from Korea.
+This is my last semester. I'm glad to take this class.
+
+My project idea is to create an Web Application like Amazon.com. There are Sellers who can post items and Users who can buy the items.
