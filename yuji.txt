@@ -1,0 +1,5 @@
+Aloha, my name is Yuji. I'm from Japan and love surfing.
+
+This is my senior year, and I am looking forward to graduate next semester.
+
+My final project idea is to create a web application that act as a hobby/interest matching site for BYUH students. Through this website, students can create their own profiles and receive recommendation on who may be a good person to hang out with. The service strictly follows the BYUH standards and make sure to have a secure authentication/verification systems.
