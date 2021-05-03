@@ -1,0 +1,8 @@
+Aloha,
+
+My name is Joshua Hansen from Utah, and I am majoring in computer science. 
+This is my final semester and my final Computer Science course which I am excited to take. 
+
+My project idea is to create an web app like chegg, where users can post questions from homework assingments and other users can post answers to those questions.
+
+
