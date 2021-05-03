@@ -1,0 +1,6 @@
+Aloha,
+
+My name is Talmage Sharp. I am majoring in computer science and I am from Laie.
+I love computer science and am excited to learn more from this class.
+
+My idea for the final project is to create a web application similar to AIRBNB but for off campus housing for students. It will have renters, landlords and houses. The landlords can post houses and the renters can find them and book rental contracts. 
