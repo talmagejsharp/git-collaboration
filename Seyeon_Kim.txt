@@ -1,7 +1,6 @@
 Aloha,
 
-My name is Seyeon Kim. I am from South Korea. My major is computer science. I am really happy to 
-take this class. 
-My project idea is to make an application like internet clothing shopping mall 
-that has the advantage of people can quickly identifying which shopping mall's products are currently the most popular.
-  
+My name is Seyeon Kim. I am from South Korea. My major is computer Science.
+
+My project idea is that I what to make an application that the online clothes shopping mall which people
+easily find out their style suit them well. 
